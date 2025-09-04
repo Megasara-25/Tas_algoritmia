@@ -1,0 +1,6 @@
+# Ejemplo de dataset (reemplazar por el de la cátedra si difiere)
+Buenos Aires
+Chicago
+Hong Kong
+Lisboa
+Madrid

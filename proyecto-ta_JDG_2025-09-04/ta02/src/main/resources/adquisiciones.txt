@@ -1,0 +1,4 @@
+# Formato: ADD;ISBN;TITULO;CANT;PRECIO_UNIT
+ADD;9780001;Estructuras de Datos I;5;25.50
+ADD;9780002;Algoritmos Avanzados;3;35.00
+ADD_STOCK;9780001;2;25.50
